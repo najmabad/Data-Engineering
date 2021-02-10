@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.DS_Store
+.idea/
+Data Modeling/.DS_Store
+Data Modeling/Lesson 3: NoSQL Data Models/.DS_Store
